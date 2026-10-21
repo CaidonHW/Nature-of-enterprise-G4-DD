@@ -1,0 +1,2 @@
+#Introduction
+We investigated the rise of e-commerce (ebay/amazon evolution).The rise of e-commerce dates back to 1979 when Michael Aldrich first introdcued online shopping to the world using a modified domestic television that was interconnected to a transaction processing computer through a telephone line. This complex set up sparked the beginning of ec#ommerce and inspired the multi billion dollar industry that exists today.
