@@ -18,6 +18,8 @@ This is one of the biggest advantages of ecommerce because working physically st
 This is fairly one of the essential advantages of the ecommerce because its so easy to track records of everything rather than the physical storefront.
 
 This is the potential downsides of ecommerce.
-- Potential security threats: 
+- Potential security threats: When doing online, there's always the potential for security threats as for example, poor website security allows unauthorized users to gain website and look at sensitive data. Troubles with payment may lead to data breaches that put customer's credit and debit card information at risk.
+- Competition: Lots of people competing online since its so easy for anyone to create their own online store. You also have to also work hard enough in able to promote your store and driving traffic to your website.
+- IT Issues: If your website suddenly crashes, that 
 
 
