@@ -20,6 +20,15 @@ This is fairly one of the essential advantages of the ecommerce because its so e
 This is the potential downsides of ecommerce.
 - Potential security threats: When doing online, there's always the potential for security threats as for example, poor website security allows unauthorized users to gain website and look at sensitive data. Troubles with payment may lead to data breaches that put customer's credit and debit card information at risk.
 - Competition: Lots of people competing online since its so easy for anyone to create their own online store. You also have to also work hard enough in able to promote your store and driving traffic to your website.
-- IT Issues: If your website suddenly crashes, that 
+- IT Issues: If your website suddenly crashes, that potentially cost you money and customers. 
+- Shipping Logistics: Running physically storefront is simple because you can just sell your product when customers arrive. With ecommerce store, you have to figure all the shipping logistics because every purchase will be shipped. 
+- Limited connection with customers: You don't get to connect with the customers on a personal level when running an ecommerce shop. 
 
+Benefits of ecommerce for customers?
+- Easy to compare products: Instead of shop by shop, customers can easily compare products online.
+- Shop from anywhere: Customers can shop from work, home, or on vacation.
+- Browse a range of products: There's no limit you can sell online so customers can seek range of products.
+- Access to product information: Uses product descriptions and details to provide in-depth information.
+- Save time: Rapid purchases and time is valueable.
+- Easier price transparency: Customers see exact pricing, shipping costs, and available discounts upfront. 
 
