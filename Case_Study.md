@@ -1,0 +1,111 @@
+## Introduction
+We investigated the rise of e-commerce (eBay/amazon evolution). This case study argues through the following thesis "the rise of e-commerce has made shopping easier and more accessible but also changed peoples habits and employment trends whilst effecting social interactions". We analysed the thesis statement through two viewpoints. As a group we covered both the benefits and issues that arose from the growth of these companies and compiled our evidence within this project to create our case study overview. 
+
+We chose to analyse our thesis statement from a business and societal viewpoint as this was most relevant to our case study. Within the business viewpoint we researched the reasons the two companies thrived and some of their implemented business strategy techniques. From a societal perspective we covered the effect it has had on social interactions, employment and the harms on the environment.
+
+Over the past decades electronic commerce has shifted from an interesting novelty invention into a worldwide phenomenon that has revolutionised how consumers shop on a regular basis. It has shifted through many eras of sales from discs, to manufacturing goods, hardware, electronic appliances and even groceries. E-commerce is now responsible for approximately 20% of worldwide purchases (according to eMarketer 2025). The industry has continued to expand each year with a wider internet access growing and developments within the industry itself such as more secure payment systems. It has supported a whole new employment industry from warehouse workers, delivery drivers and pilots to a wide range of online jobs. These online jobs such as web designer, drop shipper and cyber security have become the centre of news headlines over the last decade as society becomes more dependent on the industry of e-commerce.
+
+The rise of e-commerce dates back to 1979 when Michael Aldrich first introduced online shopping to the world market by using a modified domestic television that was interconnected to a transaction processing computer through a telephone line. This complex set up sparked the beginning of ecommerce and inspired both eBay and amazon to compete within the multibillion dollar industry that exists today. In terms of eBay and Amazon both companies were formed in 1995 but they both took different business models for their companies. Amazon was built with a consumer to consumer model whereas eBay opted for a business to consumer approach. Over time, both companies evolved into platforms where  businesses sell their goods to consumer and so the companies act as a third party sales platform where they earn a percentage through sales and advertisement. As secure payments, algorithms and cloud infrastructure developed it provided the two companies all the resources they needed to flourish as a business.
+
+## Historical development
+E-Commerce has been one of the defining developments of the modern world. In 2025 alone it accounted for a fifth of worldwide retail sales and was valued at over 4 trillion in estimated revenue in 2025. More than the entire economic output of Turkey and Spain combined. But E-Commerce did not always have its large market share. E-Commerce had a long, difficult and challenging development. Before E-commerce was even envisioned the first way people could conduct purchases not in person was catalogues, books/papers advertised available items and were usually purchased over mail or telephone to be delivered. While not vital to technical development this was an important milestone in terms of societal acceptance that purchases could be made through such means. 
+
+It has its origins in the United States during the significant year of 1969 in Columbus, Ohio with the opening of CompuServe the nation and worlds first non-human operated commerce operation. Due to the lack of internet this early version had data traveling through phone lines. This company laid the foundations for later "true" E-Commerce such as the Boston Computer Exchange (BCE) which is recognised as the first true E-Commerce company which was used to buy and sell used computers, operating before the innovation of the World Wide Web by utilising dial up technology.
+
+While not a glamorous an important part of development on any emerging innovative technology, political recognition is massively important for something to be regulated and monitored to be widely accepted into existing supply chains.  Laws to be put in place to have consumer/investor confidence such as closing legal loopholes and frameworks to be established to regulate and control the emerging industry. One of the most significant political developments for E-Commerce was in 1984 when the state of California had a state assembly on electronic commerce. Testifying were many company's which wished to establish common laws such as CompuServe. On the other hand of the biggest enablers' of widespread E-Commerce is the development of the World Wide Web. Previously customers were reliant on slow and inefficient dial up internet speeds. The advancement of the WWW allowed people to more quickly and easily access websites, and as speeds got faster and faster E-Commerce was able to establish itself as a major pillar of modern logistics. 
+
+
+The first widely accepted first legitimate online purchase was a CD of Sting’s “Ten Summoner’s Tales” sold by Dan Kohn to his friend living in Philadelphia. The $12.48 was paid securely by credit card through encrypted software which was rare for the time and to this day is regarded as the first secure E-Commerce sale over the internet
+
+Today E-Commerce has cemented itself as a major part of most people's lives in most countries, rarely would anyone's first choice to be to check in store for desired items and company's such as Amazon are valued in the Trillions, well above some entire countries’ economies such as Ireland. E-Commerce is only expected to grow over the next few years as more and more nations and cities modernise and integrate it into existing supply chains. Other emerging technologies such as autonomous drone delivery could even drop prices lower to less than 2 Euro per delivery
+
+
+
+## Viewpoint 1
+   The rise and growth of e-commerce has impacted the society and the way that people shop. The introduction of platforms like Amazon and eBay have made shopping such easier by allowing them to buy products from home without having to physically visit the shop. This has saved people a lot of time and made products accessible especially those that stay in rural areas who have difficulty in travelling. We also discovered that e-commerce has created job opportunities in warehouse, delivery services and customer services. Another important aspect of e-commerce is that it has changed how businesses operate and compete with each other.
+   Online shopping allows smaller businesses to reach customers from diferent locations without needing to open physical shops. This gives smaller companies more opportunities to grow and compete with larger companies. E-commerce also allows businesses to advertise their products through social media and online platforms making it easier to attract new customers (reference 4).
+   
+   However, we discovered that the rise of e-commerce has also negatively impacted  society. Traditional shops have seen a reduction on customers since people now prefer shopping online. It has also reduced some face to face interactions between customers and shop workers.
+   
+   Another concern has been online safety as customers always have to share personal and payment information when having to purchase items. Another social impact is that not every person has equal access to e-commerce. People without reliable internet access or skills on how to use to shopping services can have difficulty. This creates a gap between people who are comfortable using the shopping service and the ones who are not. I also discovered that business also face challenges, such as strong competition, delivery costs and the need to protect customer information.
+  Another issue is that customers cannot physically see or try products before purchasing them, which can sometimes lead to disappointment if the product doesn't meet their expectations. Returning products can also be inconvenient for customers and expensive for businesses. Environmental concerns have also emerged. While online shopping an reduce the number of individual car trips to stores, it has led to a larger increase in packaging waste and carbon emissions from delivery vehicles. The expectations of faster and free delivery has put pressure on logistics systems and sometimes results in inefficient practices. 
+
+   Overall e-commerce has made shopping easier, more convenient and more accessible for many people. It has created new economic opportunities and allowed small business to grow in ways that were previously impossible. At the same time, it has changed shopping habits, affected traditional employment, reduced certain forms of interactions, raised privacy and security issues and contributed to environmental challenges. Society continues to adapt to these changes and long-term e-commerce depend on how well governments, businesses and individuals manage both its benefits and its challenges. To make e-commerce more beneficial, businesses and governments need to consider how online shopping affects different groups in the society. Businesses should provide clear product descriptions, accurate photographs and simple return policies so customers know what they are buying. They should also use secure payment systems and explain how customer data is collected and protected. This can help build trust and make people feel safer when shopping online. The Government can support people who are struggling with digital services by improving internet access and providing opportunities to develop basic digital skills.
+
+
+## Viewpoint 2
+Ecommerce is such a great option for business owners but it probably isn't the right path for your particular business. One thing about the consideration when building an ecommerce website is how much resources it takes, especially if you hire a professional.
+
+There are seven advantages for business owners who don't want to set up a physical storefront. With the help of ecommerce, you can build an affordable website and sell your products online (reference 5).
+
+1: Lower business costs: Having to run in an ecommerce store is actually a lot more effective than running physically in the store. This makes businesses save money by reducing rent, staffs and everyday expenses.
+
+2: No need for physical storefront: With ecommerce, this allows businesses to avoid the obstacles when handling the store physically. Examples would be paying for electricity, water and internet to catch up with your businesses need.
+
+3: Ability to reach out a range of audience: Your physical job can only get you so many visitors in a day, however with ecommerce, it can give you a massive audience. In the entire world, you can provide your product throughout the countries with the ecommerce. Even if you're not selling your product overseas, many shoppers can still boost your sales.
+
+4: Scalability: This is one of the biggest advantages of ecommerce because working physically storefront, your business has to move inventory and equipment from one location to another which makes life harder and less efficient. Whereas, your website and store can grow as your business does. and you don't have to spend a fortune moving to a new physical space.
+
+5: Track logistics: This is fairly one of the essential advantages of the ecommerce because it’s so easy to track records of everything rather than the physical storefront.
+
+
+**These are the potential downsides of ecommerce:**
+
+•	Potential security threats: When doing online, there's always the potential for security threats as for example, poor website security allows unauthorized users to gain website and look at sensitive data. Troubles with payment may lead to data breaches that put customer's credit and debit card information at risk.
+
+•	Competition: Lots of people competing online since it’s so easy for anyone to create their own online store. You also have to also work hard enough in able to promote your store and driving traffic to your website.
+
+•	IT Issues: If your website suddenly crashes, that potentially cost you money and customers.
+
+•	Shipping Logistics: Running physically storefront is simple because you can just sell your product when customers arrive. With ecommerce store, you have to figure all the shipping logistics because every purchase will be shipped.
+
+•	Limited connection with customers: You don't get to connect with the customers on a personal level when running an ecommerce shop.
+
+**Benefits of ecommerce for customers?**
+
+•	Easy to compare products: Instead of shop by shop, customers can easily compare products online.
+
+•	Shop from anywhere: Customers can shop from work, home, or on vacation.
+
+•	Browse a range of products:  Millions of companies online to look through.
+
+•	Access to product information: Uses product descriptions and details to provide in-depth information.
+
+•	Save time through rapid purchases as time is valuable.
+
+•	Easier price transparency: Customers see exact pricing, shipping costs, and available discounts upfront.
+
+
+**Ethics and considerations**
+While E-Commerce has done a lot of good in the realm of societal and business operations one important things to consider is the ethical considerations of using new technological practices. No new innovation no matter how seemingly good it is will always affect someone or something negatively whether it be a person, place or the environment. The following issues i believe are some of the most significant facing the development.
+
+First is privacy. While historically no transaction was completely private generally the seller would at least personally know the buyer aside from extraordinary circumstance. Every single purchase of a good online usually involves handing over significant amount of personal data to companies. What your buying, when you’re buying it, where you’re getting it delivered too and so on. This data can then be sold on to third party advertisers to form profiles on consumers likes and dislikes to do targeted advertisement on them. This can be quite damaging to consumers as they are having products and services deliberately chosen to appeal as much as possible to them, leading to unneeded purchases and unfair targeting to people prone to the enjoyment that shopping brings. A possible way to mitigate this is having transparent and clear ways for consumers to view what data of theirs is being collected, what is currently stored and options to delete this data. Moves to enforce this have already been made in the EU such as the General Data Protection Regulation has meant this has been made a part of the fundamental rights of all EU citizens. This law will enforce that companies that deal in E-Commerce remain ethical to the average consumer
+
+Another possible concern is the effect E-Commerce will have on small/local businesses. While E-Commerce in the past has breathed new life into some small businesses by giving them access to a much larger customer base than just their local town/area there are also drawbacks that could occur to them if E-Commerce is relied on as a major revenue source. These vulnerable small businesses are largely reliant on automated algorithms recommending their products or services to consumers. Another drawback on over-reliance is that E-Commerce platforms regularly have large fees applied to sales through shipping or processing fees. This extra layer of fees could be extremely damaging to business operations such price hikes during high inflation times such as Covid, The Russian invasion of Ukraine and other such events. As a new industry policies and laws are bound to change so sellers have to be quick to adapt. To mitigate these issues local businesses should ensure that aren't overly reliant on one source of revenue such as E-Commerce platforms and establish clear rules and policies on things such as fees and operational assurances.
+
+The last major thing to bring up regarding the ethics of the rise of E-Commerce is the environment.  E-Commerce in comparison to normal purchases has a massive environmental cost. In comparison to simply walking to a local store that a good arrived from the country itself a good from an E-Commerce site has to travel much longer distances and has a lot more packaging requirements to make such journeys safely and not breaking. A typical journey for a good manufactured in say China has to cross multiple oceans and seas to reach Ireland, Pacific to Indian to Mediterranean to the Atlantic where the cargo containers dock in Dublin to unload cargo. This is not even mentioning the carbon emitted driving the good to local distribution centres or the fuel costs associated with returns or lost packages needing to be redistributed. E-Commerce the sale of a large portion of rapid consumerism also causing massive damage to global ecosystems through plastic waste and other disposable resources. A way to mitigate these problems is through a variety of remedies as it can't be fixed by a single solution. Measures such as ensuring policies to minimise returns, Using eco-friendly and bio-degradable packaging, using renewable electricity for cargo ships and land vehicles (which make up around 20% of global emissions on average), or other alternative measures such as offering customers longer journey times to minimize emissions
+
+In the end E-Commerce is not neither good nor bad. Like other emerging innovations it has the ability to change the world for the better or worse. Measures need to be put in place to minimize the damage it will inevitably cause, but like any emerging technology E-Commerce also has the force to do tremendous good for the world. Benefiting consumers, businesses, society and the world as a whole.
+
+## Conclusion
+The rise of e-commerce has changed the way people shop and the way businesses sell their products. As our case study has shown, online shopping did not become popular overnight. It began with early developments such as Michael Aldrichs online shopping system in 1979 and later grew through companies and platforms such as Amazon and eBay. Today, e-commerce is a major part of everyday life and has changed what customers expect from businesses.
+Looking at the societal viewpoint, one of the biggest changes is how easy it is for people to shop. Customers can order products from home, compare different items and prices, and access a wider range of products without travelling to a physical shop. This can be especially useful for people who live in rural areas or have difficulty getting around. E-commerce has also created jobs in warehouses, delivery services and customer support. However, these benefits have come with disadvantages. Traditional shops can lose customers when more people choose to shop online, and there can be less face-to-face contact between customers and shop workers. Customers also need to be careful when sharing personal and payment details online.
+The business viewpoint shows why many companies have chosen to use e-commerce.An online store can cost less to operate than a physical shop because a business may not need to pay for shop rent, utilities and as many staff. It can also reach customers in different areas and grow without having to open another physical location. Online systems can help businesses keep track of orders and other records.
+
+However, running an online store is not automatically easy or successful. Businesses face competition from many other sellers, need to promote their websites, and must make sure their websites work properly. They also have to organise shipping and deal with possible security problems. A website failure or a problem with a payment system can affect both sales and customer trust.
+The ethical issues discussed in our case study are important because e-commerce depends on customers trusting businesses with their information. Personal and payment details must be handled carefully, and companies need to take security seriously. The growth of online shopping also raises questions about its effect on traditional shops and the people who work in them. Businesses should therefore consider more than just making sales. They should protect customer information, keep their websites reliable and provide clear and helpful customer service.
+
+
+Overall, our research shows that e-commerce has both positive and negative effects. It gives customers more choice and convenience and gives businesses new ways to reach people and manage their operations. At the same time, it creates challenges around security, competition, delivery and changes to traditional shopping. E-commerce is not simply good or bad; its impact depends on how it is used and managed. As online shopping continues to develop, businesses will need to deal with these problems while maintaining customer trust. E-commerce has already become an important part of modern society, and its influence on shopping and business is likely to continue.
+
+## References
+
+eMarketer (2025) Ecommerce to account for more than 20% of worldwide retail sales despite slowdown. Available at: https://www.emarketer.com/content/ecommerce-account-more-than-20--of-worldwide-retail-sales-despite-slowdown .
+
+Lewis, P.H. (1994) 'Attention shoppers: Internet is open', The New York Times, 12 August. Available at: https://www.nytimes.com/1994/08/12/business/attention-shoppers-internet-is-open.html .
+
+Aldrich, M. (2011) 'Online shopping in the 1980s', IEEE Annals of the History of Computing, 33(4), pp. 57–61. Available at: https://static1.squarespace.com/static/5ef13a3d6947fc50b4ef5d7d/t/600f47ce320696611fe9a267/1611614158605/online+shopping+1980.pdf .
+
+OECD (2019) Unpacking e-commerce: business models, trends and policies. Paris: OECD Publishing. Available at: https://doi.org/10.1787/23561431-en .
+
+OECD (2021) The digital transformation of SMEs. OECD Studies on SMEs and Entrepreneurship. Paris: OECD Publishing. Available at: https://doi.org/10.1787/bdb9256a-en .
